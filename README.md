@@ -1,6 +1,6 @@
 # 👋 Hello , I'm Hyun Sung Choi
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Game%20Developer&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Hyun%20Sung%20Choi&fontSize=60)
 
 ## 📊 Stats
 ![Anxi77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anxi77&show_icons=true&theme=radical)
