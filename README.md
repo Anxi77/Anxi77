@@ -10,7 +10,7 @@
 ## 📊 Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anxi77&show_icons=true&theme=radical"/>
-  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anximusic7"/>
+  <a href="http://naver.com"><img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anximusic7"/>
 </p>
 
 ## 🎮 Skills
