@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello , I'm Hyun Sung Choi
 
-<!--
-**Anxi77/Anxi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Game%20Developer&fontSize=60)
 
-Here are some ideas to get you started:
+## 📊 Stats
+![Anxi77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anxi77&show_icons=true&theme=radical)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=anximusic7)](https://solved.ac/anximusic7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Skills
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+## 📚 Working In Progress
+- Algorithms & Data Structures
+- DirectX 11
+- Unity Game Development    
+
+## 📫 Contact
+- E-mail : anximusic7@gmail.com
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Anxi77.Anxi77)
