@@ -33,15 +33,15 @@
 <br>
 
 ### 🎯 Current Focus
-- Advanced Game Programming Patterns
-- Graphics Programming with DirectX 11
-- Unity Performance Optimization
-- Problem Solving on BOJ
+• Advanced Game Programming Patterns<br>
+• Graphics Programming with DirectX 11<br>
+• Unity Performance Optimization<br>
+• Problem Solving on BOJ
 
 ### 🏆 Goals for 2024
-- Master Unity DOTS
-- Develop Portfolio Projects
-- Improve Algorithm Skills
+• Master Unity DOTS<br>
+• Develop Portfolio Projects<br>
+• Improve Algorithm Skills
 
 </details>
 
