@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F00,100:003300&height=200&section=header&text=Hyun%20Sung%20Choi&fontSize=60&animation=twinkling&fontAlignY=38&desc=Game%20Developer&descAlignY=60&descAlign=62&fontColor=32CD32&descColor=32CD32)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001F00,100:003300&height=200&section=header&text=Hyun%20Sung%20Choi&fontSize=60&animation=twinkling&fontAlignY=38&desc=Game%20Developer&descAlignY=60&descAlign=62&fontColor=32CD32&descColor=32CD32)
 
 <p align="center">
   <a href="mailto:anximusic7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
