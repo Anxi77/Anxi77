@@ -26,8 +26,9 @@
 
 <p align="center">
   <a href="https://github.com/Anxi77/.Algorithms"><img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square&logo=TheAlgorithms&logoColor=white"/>
-  <a href="https://github.com/Anxi77/.DirectX11"><img src="https://img.shields.io/badge/DirectX11-00B2FF?style=flat-square&logo=Microsoft&logoColor=white"/>
+  <a href="https://github.com/Anxi77/.DirectX11"><img src="https://img.shields.io/badge/DirectX11-00B2FF?style=flat-square&logo=gamedeveloper&logoColor=white"/>
   <a href="https://github.com/Anxi77/.Portfolio"><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <a href="https://github.com/Anxi77/.Settings"><img src="https://img.shields.io/badge/Settings-000000?style=flat-square&logo=c&logoColor=white"/>
 </p>
 
 <details>
