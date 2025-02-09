@@ -37,9 +37,9 @@
 
 ### 🎯 Current Focus
 
-• Graphics Programming with DirectX 11<br>
-• Developing Portfolio Projects<br>
-• Problem Solving on BOJ
+• [Graphics Programming with DirectX 11](https://github.com/Anxi77/.DirectX11)<br>
+• [Developing Portfolio Projects](https://github.com/Anxi77/.Portfolio)<br>
+• [Problem Solving on BOJ](https://github.com/Anxi77/.Algorithms)
 
 ### 🏆 Goals for 2025
 
