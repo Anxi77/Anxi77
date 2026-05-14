@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Anxi77 · 최현성 — An Engineer's Living Thesis. Now shipping: 1000+ kiosks live (iFoto), Unity DOTS RPG (Arcyn), 6yr composer turned engineer. Now learning: DirectX 11 6-phase roadmap, C++17 HLSL CMake, BOJ algorithms.">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#001F00"/>
+    </linearGradient>
+    <pattern id="dotGrid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.7" fill="#39FF14" opacity="0.18"/>
+    </pattern>
+    <radialGradient id="vignette" cx="0.5" cy="0.5" r="0.7">
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+    </radialGradient>
+    <clipPath id="avatarClip">
+      <circle cx="68" cy="60" r="34"/>
+    </clipPath>
+    <style><![CDATA[
+      .han  { font-family: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Noto Sans KR', system-ui, sans-serif; }
+      .mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', 'Cascadia Mono', Menlo, Consolas, 'D2Coding', monospace; }
+
+      .wordmark   { font-size: 28px; font-weight: 700; fill: #39FF14; letter-spacing: 0.4px; }
+      .subtitle   { font-size: 13px; fill: #8FE085; letter-spacing: 1.8px; }
+      .subtitle-han { font-size: 13px; fill: #8FE085; letter-spacing: 0.4px; }
+      .panel-title{ font-size: 12px; fill: #39FF14; letter-spacing: 2.4px; font-weight: 700; }
+      .line       { font-size: 15px; fill: #C8FFC0; letter-spacing: 0.3px; }
+      .accent     { fill: #39FF14; font-weight: 700; }
+      .dim        { fill: #5A8C50; }
+      .footer     { font-size: 11px; fill: #5A8C50; letter-spacing: 3px; }
+      .meta       { font-size: 10px; fill: #5A8C50; letter-spacing: 2px; }
+      .prompt     { fill: #39FF14; font-weight: 700; }
+
+      .fadeA { opacity: 0; animation: fA 14s ease-out infinite; }
+      .fadeB { opacity: 0; animation: fB 14s ease-out infinite; }
+      .fadeC { opacity: 0; animation: fC 14s ease-out infinite; }
+      .fadeD { opacity: 0; animation: fD 14s ease-out infinite; }
+      .fadeE { opacity: 0; animation: fE 14s ease-out infinite; }
+      .fadeF { opacity: 0; animation: fF 14s ease-out infinite; }
+      .fadeG { opacity: 0; animation: fG 14s ease-out infinite; }
+      .fadeH { opacity: 0; animation: fH 14s ease-out infinite; }
+      .fadeI { opacity: 0; animation: fI 14s ease-out infinite; }
+
+      @keyframes fA { 0%,1% {opacity:0} 5%,92% {opacity:1} 98%,100% {opacity:0} }
+      @keyframes fB { 0%,4% {opacity:0} 8%,92% {opacity:1} 98%,100% {opacity:0} }
+      @keyframes fC { 0%,10% {opacity:0} 14%,92% {opacity:1} 98%,100% {opacity:0} }
+      @keyframes fD { 0%,16% {opacity:0} 20%,92% {opacity:1} 98%,100% {opacity:0} }
+      @keyframes fE { 0%,22% {opacity:0} 26%,92% {opacity:1} 98%,100% {opacity:0} }
+      @keyframes fF { 0%,28% {opacity:0} 32%,92% {opacity:1} 98%,100% {opacity:0} }
+      @keyframes fG { 0%,34% {opacity:0} 38%,92% {opacity:1} 98%,100% {opacity:0} }
+      @keyframes fH { 0%,40% {opacity:0} 44%,92% {opacity:1} 98%,100% {opacity:0} }
+      @keyframes fI { 0%,12% {opacity:0} 18%,92% {opacity:1} 98%,100% {opacity:0} }
+
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: 0.45 } }
+
+      .blink { animation: blink 0.9s steps(1,end) infinite; }
+      @keyframes blink { 0%,50% { opacity: 1 } 51%,100% { opacity: 0 } }
+
+      .scan { animation: scan 18s linear infinite; }
+      @keyframes scan { from { transform: translateY(0) } to { transform: translateY(22px) } }
+    ]]></style>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bgGrad)"/>
+  <g class="scan" opacity="0.45">
+    <rect x="-2" y="-22" width="1204" height="464" fill="url(#dotGrid)"/>
+  </g>
+  <rect width="1200" height="420" fill="url(#vignette)"/>
+
+  <g stroke="#39FF14" stroke-width="1.2" fill="none" opacity="0.85">
+    <polyline points="20,20 20,40 40,40"/>
+    <polyline points="1180,20 1180,40 1160,40"/>
+    <polyline points="20,400 20,380 40,380"/>
+    <polyline points="1180,400 1180,380 1160,380"/>
+  </g>
+
+  <g class="fadeA">
+    <image x="34" y="26" width="68" height="68"
+           href="data:image/jpeg;base64,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"
+           clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+    <circle cx="68" cy="60" r="34" fill="none" stroke="#39FF14" stroke-width="1.6"/>
+    <circle cx="68" cy="60" r="37" fill="none" stroke="#39FF14" stroke-width="0.6" opacity="0.45"/>
+    <circle cx="93" cy="86" r="5" fill="#000000"/>
+    <circle cx="93" cy="86" r="3.5" fill="#39FF14" class="pulse"/>
+  </g>
+
+  <g class="fadeA">
+    <text x="120" y="58" class="wordmark han" xml:space="preserve"><tspan class="prompt mono">&gt; </tspan><tspan class="mono">Choi Hyun Sung</tspan><tspan class="dim mono"> · </tspan><tspan>최현성</tspan></text>
+    <text x="120" y="86" class="subtitle mono">FREQUENCIES TO FUNCTIONS  ·  UNITY DEV / SOFTWARE ENGINEER</text>
+  </g>
+
+  <g class="fadeB">
+    <text x="1150" y="56" text-anchor="end" class="meta mono">SEOUL · KR</text>
+    <text x="1150" y="76" text-anchor="end" class="meta mono">anximusic7<tspan fill="#5A8C50">@</tspan>gmail.com</text>
+    <text x="1150" y="96" text-anchor="end" class="meta mono">github.com/Anxi77</text>
+  </g>
+
+  <g transform="translate(50, 128)">
+    <g class="fadeA">
+      <rect width="540" height="222" rx="4" fill="#001A00" fill-opacity="0.55" stroke="#1FA10A" stroke-width="1"/>
+      <g stroke="#39FF14" stroke-width="1" fill="none">
+        <polyline points="0,0 0,12 12,0" opacity="0.9"/>
+        <polyline points="540,0 540,12 528,0" opacity="0.9"/>
+      </g>
+      <text x="18" y="28" class="panel-title mono">▸ NOW SHIPPING</text>
+      <text x="522" y="28" text-anchor="end" class="meta mono">REAL · LIVE</text>
+      <line x1="14" y1="42" x2="526" y2="42" stroke="#1FA10A" stroke-width="0.6" opacity="0.6"/>
+    </g>
+
+    <g class="fadeC">
+      <circle cx="28" cy="80" r="4.5" fill="#39FF14" class="pulse"/>
+      <text x="44" y="85" class="line mono"><tspan class="accent">scale</tspan>      · <tspan fill="#FFFFFF">1,000+</tspan> prod units · CS <tspan class="accent">60%↓</tspan> · solo owner</text>
+    </g>
+
+    <g class="fadeD">
+      <circle cx="28" cy="120" r="4.5" fill="#39FF14" class="pulse"/>
+      <text x="44" y="125" class="line mono"><tspan class="accent">arch</tspan>       · DOTS-Mono hybrid sync · zero-alloc Burst BT</text>
+    </g>
+
+    <g class="fadeE">
+      <circle cx="28" cy="160" r="4.5" fill="#39FF14" class="pulse"/>
+      <text x="44" y="165" class="line mono"><tspan class="accent">depth</tspan>      · GPU 4-pass color · 6-SDK · P/Invoke · COM</text>
+    </g>
+
+    <g class="fadeF">
+      <line x1="14" y1="188" x2="526" y2="188" stroke="#1FA10A" stroke-width="0.6" opacity="0.4"/>
+      <text x="18" y="206" class="meta mono">unity 6 · c# · c++ · python · hlsl · onnx · supabase · celery</text>
+    </g>
+  </g>
+
+  <g transform="translate(620, 128)">
+    <g class="fadeA">
+      <rect width="530" height="222" rx="4" fill="#001A00" fill-opacity="0.55" stroke="#1FA10A" stroke-width="1"/>
+      <g stroke="#39FF14" stroke-width="1" fill="none">
+        <polyline points="0,0 0,12 12,0" opacity="0.9"/>
+        <polyline points="530,0 530,12 518,0" opacity="0.9"/>
+      </g>
+      <text x="18" y="28" class="panel-title mono">▸ NOW LEARNING</text>
+      <text x="512" y="28" text-anchor="end" class="meta mono">DAILY · LOOP</text>
+      <line x1="14" y1="42" x2="516" y2="42" stroke="#1FA10A" stroke-width="0.6" opacity="0.6"/>
+    </g>
+
+    <g class="fadeF">
+      <circle cx="28" cy="80" r="4.5" fill="#39FF14" class="pulse"/>
+      <text x="44" y="85" class="line mono"><tspan class="accent">dx11</tspan>      · 6-phase · win32 → raytracing</text>
+    </g>
+    <g class="fadeG">
+      <circle cx="28" cy="120" r="4.5" fill="#39FF14" class="pulse"/>
+      <text x="44" y="125" class="line mono"><tspan class="accent">low-lvl</tspan>   · cache · MESI · branch pred</text>
+    </g>
+    <g class="fadeH">
+      <circle cx="28" cy="160" r="4.5" fill="#39FF14" class="pulse"/>
+      <text x="44" y="165" class="line mono"><tspan class="accent">cpp</tspan>       · RAII · COM · move<tspan dx="2" class="accent blink">▌</tspan></text>
+    </g>
+
+    <g class="fadeF">
+      <line x1="14" y1="188" x2="516" y2="188" stroke="#1FA10A" stroke-width="0.6" opacity="0.4"/>
+      <text x="18" y="206" class="meta mono">audio engineer → software engineer → systems engineer</text>
+    </g>
+  </g>
+
+  <g class="fadeI">
+    <g transform="translate(1060, 235)">
+      <g>
+        <circle cx="0" cy="0" r="62" fill="none" stroke="#39FF14" stroke-width="1" opacity="0.95"/>
+        <ellipse cx="0" cy="0" rx="62" ry="12" fill="none" stroke="#39FF14" stroke-width="0.7" opacity="0.85"/>
+        <ellipse cx="0" cy="0" rx="62" ry="30" fill="none" stroke="#39FF14" stroke-width="0.7" opacity="0.7"/>
+        <ellipse cx="0" cy="0" rx="62" ry="48" fill="none" stroke="#39FF14" stroke-width="0.6" opacity="0.55"/>
+        <ellipse cx="0" cy="0" rx="12" ry="62" fill="none" stroke="#39FF14" stroke-width="0.7" opacity="0.85"/>
+        <ellipse cx="0" cy="0" rx="30" ry="62" fill="none" stroke="#39FF14" stroke-width="0.7" opacity="0.7"/>
+        <ellipse cx="0" cy="0" rx="48" ry="62" fill="none" stroke="#39FF14" stroke-width="0.6" opacity="0.55"/>
+        <circle cx="0" cy="-62" r="2.2" fill="#39FF14"/>
+        <circle cx="0" cy="62" r="2.2" fill="#39FF14"/>
+        <line x1="-62" y1="0" x2="62" y2="0" stroke="#39FF14" stroke-width="0.5" opacity="0.4"/>
+        <line x1="0" y1="-62" x2="0" y2="62" stroke="#39FF14" stroke-width="0.5" opacity="0.4"/>
+        <animateTransform attributeName="transform" type="rotate"
+                          from="0" to="360" dur="11s" repeatCount="indefinite"/>
+      </g>
+      <text x="0" y="92" text-anchor="middle" class="meta mono">// rendering self</text>
+    </g>
+  </g>
+
+  <g class="fadeI">
+    <text x="600" y="395" text-anchor="middle" class="footer mono">END-TO-END   ·   SYSTEMS DEPTH   ·   ADAPTIVE ENGINEERING</text>
+  </g>
+</svg>

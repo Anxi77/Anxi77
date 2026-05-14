@@ -1,0 +1,62 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "30 15 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/metrics.yml
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: General metrics card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Anxi77
+          filename: assets/metrics.svg
+          template: terminal
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Seoul
+          config_display: large
+
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 6
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_ignored: html, css, scss, jupyter-notebook
+
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 0
+
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+
+          output_action: commit
+          committer_branch: main
+          committer_message: "[chore] auto-update metrics card"
+
+      - name: Isocalendar card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Anxi77
+          filename: assets/metrics.isocalendar.svg
+          base: ""
+          template: terminal
+          config_timezone: Asia/Seoul
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          output_action: commit
+          committer_branch: main
+          committer_message: "[chore] auto-update isocalendar"
